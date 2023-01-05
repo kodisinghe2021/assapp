@@ -1,4 +1,3 @@
-import 'package:assignment_app/presenter/widgets/testing.dart';
 import 'package:assignment_app/views/home/home.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

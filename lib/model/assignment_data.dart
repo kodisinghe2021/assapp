@@ -47,16 +47,6 @@ class ModuleList {
   ];
 
 
-// List<String> deadlinesStrings = [];
-
-// void getDeadlines(){
-//   _assignmentList.forEach((element) {deadlinesStrings.add(element.deadline.split(' ')[0]); });
-// }
-
-// datestrings.sort((a, b){ //sorting in ascending order
-//     return DateTime.parse(a).compareTo(DateTime.parse(b));
-// });
-
 
 
   List<AssignmentModules> get getAssignments => _assignmentList;
